@@ -22,7 +22,8 @@ Dynamic Gobuster is an advanced directory enumeration tool that extends Gobuster
 ```bash
 git clone https://github.com/yourusername/dynamic-gobuster.git
 cd dynamic-gobuster
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## Usage
 
