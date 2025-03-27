@@ -30,9 +30,9 @@ pip install -r requirements.txt
 ```python dynamic-gobuster.py -d <target_url> -p <wordlist_path> -t <num_threads>```
 
 Arguments:
--d, --domain : Target website URL
--p, --dict : Path to the dictionary file (wordlist)
--t, --threads : Number of concurrent threads (default: 10)
+- -d, --domain : Target website URL
+- -p, --dict : Path to the dictionary file (wordlist)
+- -t, --threads : Number of concurrent threads (default: 10)
 
 ## Example
 
