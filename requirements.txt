@@ -1,0 +1,9 @@
+requests
+gobuster
+argparse
+subprocess
+queue
+re
+threading
+concurrent.futures
+urllib3
